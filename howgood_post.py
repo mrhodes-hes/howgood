@@ -22,7 +22,7 @@ payload = {
     Additionally, the repo attached to the payload was for a job board project I started many years ago and is not currently active. While it is not the most 
     organized project that I've done, I think it shows my ability to translate business needs into solutions. Please reach to to me at mir333@g.harvard.edu so 
     I can grant you access.""",
-    "repos": ["https://github.com/rhodestechnologies/job_board_project"]
+    "repos": "https://github.com/rhodestechnologies/job_board_project"
 }
 
 body = json.dumps(payload)
